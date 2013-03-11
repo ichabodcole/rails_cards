@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  playa_id: 
+  white_card_id: 
+  black_card_id: 
+  wins: 1
+  draws: 1
+  losses: 1
+
+two:
+  playa_id: 
+  white_card_id: 
+  black_card_id: 
+  wins: 1
+  draws: 1
+  losses: 1

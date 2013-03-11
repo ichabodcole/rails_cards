@@ -1,4 +1,19 @@
 Cards::Application.routes.draw do
+  resources :entries
+
+
+  resources :octopi
+
+
+  resources :playas
+
+
+  resources :black_cards
+
+
+  resources :white_cards
+
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
